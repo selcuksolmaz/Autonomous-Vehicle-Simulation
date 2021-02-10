@@ -2,7 +2,8 @@
 
 Firstly;
 --> You must create environment on Anaconda Prompt : 
-    #conda create -n my_env python=3.6#
+
+#conda create -n my_env python=3.6#
     
 --> Then, you must activate environment(my_env) : 
     #conda activate my_env#
